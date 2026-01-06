@@ -20,7 +20,7 @@ This project aligns with the Court Dynamics perspective, where understanding pla
 
 The dataset is stored in a relational database basketball.db.  
 We used Python for data manipulation, visualization, and machine learning analysis.
-
+ 
 Main libraries used:
 - Python 3.11
 - pandas
